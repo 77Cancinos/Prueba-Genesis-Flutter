@@ -1,16 +1,19 @@
-# app_genesis
+# Flutter App Prueba-Genesis
 
-A new Flutter project.
+Un proyecto de prueba de Flutter con Dart.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Par iniciar el proyecto es necesario descargar o clonar el proyecto.
+Despues se puede descargar las dependencias con el comando:
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+luego se para levantarlo hay que tener en cuanta si se usa un emulador, o un dispotivio fisico,
+de igual forma se levanta con:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
